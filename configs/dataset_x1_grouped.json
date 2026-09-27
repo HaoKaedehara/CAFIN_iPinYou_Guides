@@ -1,0 +1,9 @@
+{
+  "source_processed_dir": "data/processed/x1_local_full",
+  "output_dir": "data/processed/x1_grouped_v1",
+  "validation_fraction": 0.1,
+  "split_seed": 20260919,
+  "min_frequency": 2,
+  "min_free_bytes": 4294967296,
+  "notes": "New non-temporal approximate holdout by SHA256 of all 16 feature values (including advertiser), independent of labels. Identical feature groups cannot cross train/validation. Retain packaged test. No official-recipe claim."
+}

@@ -1,0 +1,30 @@
+{
+  "protocol": "standardized",
+  "train_file": "E:\\MIT-Documents\\CNS\\CAFIN_iPinYou_Guides\\data\\samples\\x1_prefix100k\\train.csv",
+  "test_file": "E:\\MIT-Documents\\CNS\\CAFIN_iPinYou_Guides\\data\\samples\\x1_prefix100k\\test.csv",
+  "output_dir": "E:\\MIT-Documents\\CNS\\CAFIN_iPinYou_Guides\\data\\processed\\x1_local_smoke",
+  "delimiter": ",",
+  "label": "click",
+  "fields": [
+    "weekday",
+    "hour",
+    "IP",
+    "region",
+    "city",
+    "adexchange",
+    "domain",
+    "slotid",
+    "slotwidth",
+    "slotheight",
+    "slotvisibility",
+    "slotformat",
+    "creative",
+    "advertiser",
+    "useragent",
+    "slotprice"
+  ],
+  "validation_fraction": 0.1,
+  "min_frequency": 2,
+  "max_train_rows": 100000,
+  "notes": "First 100k packaged train and first 5k packaged test; diagnostic subset, not benchmark."
+}

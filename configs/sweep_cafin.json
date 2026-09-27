@@ -1,0 +1,6 @@
+{
+  "models": ["CAFIN_DNN", "CAFIN_CrossOnly", "CAFIN_AttentionOnly", "CAFIN_Concat", "CAFIN_CrossAttention", "CAFIN"],
+  "seeds": [11, 23, 42, 71, 101],
+  "grid": {},
+  "notes": "30 validation runs: five ablations and full CAFIN new_design_v1. This is a new documented design, not a reproduction of unavailable Criteo code."
+}

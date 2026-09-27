@@ -1,0 +1,13 @@
+{
+  "protocol": "standardized",
+  "train_file": "data/raw/ipinyou_x1/train.csv",
+  "test_file": "data/raw/ipinyou_x1/test.csv",
+  "output_dir": "data/processed/standardized",
+  "delimiter": ",",
+  "label": "click",
+  "fields": ["weekday", "hour", "IP", "region", "city", "adexchange", "domain", "slotid", "slotwidth", "slotheight", "slotvisibility", "slotformat", "creative", "advertiser", "useragent", "slotprice"],
+  "validation_fraction": 0.1,
+  "min_frequency": 2,
+  "max_train_rows": null,
+  "notes": "Validation is the last 10% of packaged training rows. This does not establish chronological or random origin of the benchmark split. All fields use categorical encoding."
+}

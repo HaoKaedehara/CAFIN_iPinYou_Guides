@@ -1,0 +1,31 @@
+{
+  "data_dir": "E:\\MIT-Documents\\CNS\\CAFIN_iPinYou_Guides\\data\\processed\\x1_local_full",
+  "run_dir": "runs\\cafin_dnn_local_full_seed11",
+  "model": "CAFIN_DNN",
+  "cafin_design_version": "new_design_v1",
+  "seed": 11,
+  "embedding_dim": 16,
+  "hidden_dims": [
+    128,
+    64
+  ],
+  "dropout": 0.1,
+  "cross_layers": 2,
+  "attention_heads": 2,
+  "attention_layers": 2,
+  "cin_channels": [
+    16,
+    16
+  ],
+  "batch_size": 512,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-06,
+  "max_epochs": 30,
+  "patience": 3,
+  "device": "cuda",
+  "cpu_threads": 2,
+  "deterministic": true,
+  "shuffle_block_rows": 65536,
+  "checkpoint_every_batches": 500,
+  "allow_test_eval": false
+}

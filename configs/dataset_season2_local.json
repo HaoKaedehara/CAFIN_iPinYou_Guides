@@ -1,0 +1,31 @@
+{
+  "protocol": "chronological",
+  "train_file": "E:\\MIT-Documents\\CNS\\CAFIN_iPinYou_Guides\\data\\raw\\season2_singleton_canonical\\train.csv",
+  "test_file": "E:\\MIT-Documents\\CNS\\CAFIN_iPinYou_Guides\\data\\raw\\season2_singleton_canonical\\test.csv",
+  "output_dir": "E:\\MIT-Documents\\CNS\\CAFIN_iPinYou_Guides\\data\\processed\\season2_chronological_v1",
+  "delimiter": ",",
+  "label": "click",
+  "fields": [
+    "weekday",
+    "hour",
+    "IP",
+    "region",
+    "city",
+    "adexchange",
+    "domain",
+    "slotid",
+    "slotwidth",
+    "slotheight",
+    "slotvisibility",
+    "slotformat",
+    "creative",
+    "advertiser",
+    "useragent",
+    "slotprice"
+  ],
+  "validation_fraction": 0.1,
+  "validation_start": "20130611000000000",
+  "min_frequency": 2,
+  "max_train_rows": null,
+  "notes": "Conservative global-singleton bid-ID subset; see data/raw/season2_singletons/receipt.json; not exact original benchmark reproduction"
+}

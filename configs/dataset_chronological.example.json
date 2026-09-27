@@ -1,0 +1,14 @@
+{
+  "protocol": "chronological",
+  "train_file": "data/raw/ipinyou_original/train.csv",
+  "test_file": "data/raw/ipinyou_original/test.csv",
+  "output_dir": "data/processed/chronological",
+  "delimiter": ",",
+  "label": "click",
+  "fields": ["weekday", "hour", "IP", "region", "city", "adexchange", "domain", "slotid", "slotwidth", "slotheight", "slotvisibility", "slotformat", "creative", "advertiser", "useragent", "slotprice"],
+  "validation_fraction": 0.1,
+  "validation_start": null,
+  "min_frequency": 2,
+  "max_train_rows": null,
+  "notes": "Input must be canonical CSV from normalize-logs, globally sorted by timestamp with click, advertiser, season, payingprice. Use actual competition train/test periods."
+}

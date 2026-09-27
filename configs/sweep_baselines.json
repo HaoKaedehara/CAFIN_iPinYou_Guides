@@ -1,0 +1,6 @@
+{
+  "models": ["LR", "FM", "DNN", "IPNN", "DeepFM", "DCN", "DCNv2", "xDeepFM", "AutoInt"],
+  "seeds": [11, 23, 42, 71, 101],
+  "grid": {},
+  "notes": "45 sequential baseline runs. Starting configurations, not a completed hyperparameter search. Define equal reasonable tuning budgets before final experiments. Executes validation only."
+}

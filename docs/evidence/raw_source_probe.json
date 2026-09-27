@@ -1,0 +1,929 @@
+{
+  "checked_at": "2026-09-18T01:55:32.664666+00:00",
+  "scope": "bounded metadata and prefix schema checks; no full-file validation",
+  "figshare_search": [
+    {
+      "id": 5732328,
+      "title": "ipinyou.contest.dataset season2",
+      "url": "https://figshare.com/articles/dataset/ipinyou_contest_dataset_season2/5732328"
+    }
+  ],
+  "kaggle_lastsummer": {
+    "url": "https://www.kaggle.com/api/v1/datasets/list/lastsummer/ipinyou",
+    "listing_complete": true,
+    "files": [
+      {
+        "name": "ipinyou.contest.dataset/README",
+        "bytes": 10663
+      },
+      {
+        "name": "ipinyou.contest.dataset/README.old",
+        "bytes": 10534
+      },
+      {
+        "name": "ipinyou.contest.dataset/algo.submission.demo/algo.submission.demo/Java/Algorithm.java",
+        "bytes": 157
+      },
+      {
+        "name": "ipinyou.contest.dataset/algo.submission.demo/algo.submission.demo/Java/Bid.java",
+        "bytes": 2694
+      },
+      {
+        "name": "ipinyou.contest.dataset/algo.submission.demo/algo.submission.demo/Java/BidRequest.java",
+        "bytes": 4227
+      },
+      {
+        "name": "ipinyou.contest.dataset/algo.submission.demo/algo.submission.demo/Python/bid.py",
+        "bytes": 183
+      },
+      {
+        "name": "ipinyou.contest.dataset/algo.submission.demo/algo.submission.demo/Python/bidDemo.py",
+        "bytes": 1915
+      },
+      {
+        "name": "ipinyou.contest.dataset/algo.submission.demo/algo.submission.demo/Python/bidRequest.py",
+        "bytes": 3881
+      },
+      {
+        "name": "ipinyou.contest.dataset/algo.submission.demo/algo.submission.demo/R/bid.R",
+        "bytes": 2168
+      },
+      {
+        "name": "ipinyou.contest.dataset/city.cn.txt",
+        "bytes": 6144
+      },
+      {
+        "name": "ipinyou.contest.dataset/city.en.txt",
+        "bytes": 4683
+      },
+      {
+        "name": "ipinyou.contest.dataset/files.md5",
+        "bytes": 7305
+      },
+      {
+        "name": "ipinyou.contest.dataset/known.data.bugs.txt",
+        "bytes": 326
+      },
+      {
+        "name": "ipinyou.contest.dataset/region.cn.txt",
+        "bytes": 410
+      },
+      {
+        "name": "ipinyou.contest.dataset/region.en.txt",
+        "bytes": 435
+      },
+      {
+        "name": "ipinyou.contest.dataset/testing1st/leaderboard.test.data.20130318_20.txt.bz2",
+        "bytes": 184482363
+      },
+      {
+        "name": "ipinyou.contest.dataset/testing2nd/leaderboard.test.data.20130613_15.txt.bz2",
+        "bytes": 171842537
+      },
+      {
+        "name": "ipinyou.contest.dataset/testing3rd/leaderboard.test.data.20131021_28.txt.bz2",
+        "bytes": 112633775
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/bid.20130311.txt.bz2",
+        "bytes": 108986453
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/bid.20130312.txt.bz2",
+        "bytes": 112368876
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/bid.20130313.txt.bz2",
+        "bytes": 121245050
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/bid.20130314.txt.bz2",
+        "bytes": 134055126
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/bid.20130315.txt.bz2",
+        "bytes": 126930603
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/bid.20130316.txt.bz2",
+        "bytes": 126031333
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/bid.20130317.txt.bz2",
+        "bytes": 128518840
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/clk.20130311.txt.bz2",
+        "bytes": 77909
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/clk.20130312.txt.bz2",
+        "bytes": 78220
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/clk.20130313.txt.bz2",
+        "bytes": 83040
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/clk.20130314.txt.bz2",
+        "bytes": 83045
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/clk.20130315.txt.bz2",
+        "bytes": 82998
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/clk.20130316.txt.bz2",
+        "bytes": 102948
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/clk.20130317.txt.bz2",
+        "bytes": 106764
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/conv.20130311.txt.bz2",
+        "bytes": 2084
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/conv.20130312.txt.bz2",
+        "bytes": 1884
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/conv.20130313.txt.bz2",
+        "bytes": 1639
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/conv.20130314.txt.bz2",
+        "bytes": 1400
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/conv.20130315.txt.bz2",
+        "bytes": 1309
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/conv.20130316.txt.bz2",
+        "bytes": 1986
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/conv.20130317.txt.bz2",
+        "bytes": 1427
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/imp.20130311.txt.bz2",
+        "bytes": 86867121
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/imp.20130312.txt.bz2",
+        "bytes": 86668726
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/imp.20130313.txt.bz2",
+        "bytes": 93722477
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/imp.20130314.txt.bz2",
+        "bytes": 102843257
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/imp.20130315.txt.bz2",
+        "bytes": 95543526
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/imp.20130316.txt.bz2",
+        "bytes": 99445608
+      },
+      {
+        "name": "ipinyou.contest.dataset/training1st/imp.20130317.txt.bz2",
+        "bytes": 100162853
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/bid.20130606.txt.bz2",
+        "bytes": 465222307
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/bid.20130607.txt.bz2",
+        "bytes": 512584088
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/bid.20130608.txt.bz2",
+        "bytes": 271750756
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/bid.20130609.txt.bz2",
+        "bytes": 625048879
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/bid.20130610.txt.bz2",
+        "bytes": 281053211
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/bid.20130611.txt.bz2",
+        "bytes": 254404082
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/bid.20130612.txt.bz2",
+        "bytes": 233420812
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/clk.20130606.txt.bz2",
+        "bytes": 99316
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/clk.20130607.txt.bz2",
+        "bytes": 90069
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/clk.20130608.txt.bz2",
+        "bytes": 99774
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/clk.20130609.txt.bz2",
+        "bytes": 95818
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/clk.20130610.txt.bz2",
+        "bytes": 121818
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/clk.20130611.txt.bz2",
+        "bytes": 113880
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/clk.20130612.txt.bz2",
+        "bytes": 112802
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/conv.20130606.txt.bz2",
+        "bytes": 5334
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/conv.20130607.txt.bz2",
+        "bytes": 6020
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/conv.20130608.txt.bz2",
+        "bytes": 5560
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/conv.20130609.txt.bz2",
+        "bytes": 4278
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/conv.20130610.txt.bz2",
+        "bytes": 12451
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/conv.20130611.txt.bz2",
+        "bytes": 6454
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/conv.20130612.txt.bz2",
+        "bytes": 9848
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/imp.20130606.txt.bz2",
+        "bytes": 121560730
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/imp.20130607.txt.bz2",
+        "bytes": 119545822
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/imp.20130608.txt.bz2",
+        "bytes": 109675020
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/imp.20130609.txt.bz2",
+        "bytes": 108107284
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/imp.20130610.txt.bz2",
+        "bytes": 120686089
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/imp.20130611.txt.bz2",
+        "bytes": 110999156
+      },
+      {
+        "name": "ipinyou.contest.dataset/training2nd/imp.20130612.txt.bz2",
+        "bytes": 103534527
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/bid.20131019.txt.bz2",
+        "bytes": 20889564
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/bid.20131020.txt.bz2",
+        "bytes": 19155687
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/bid.20131021.txt.bz2",
+        "bytes": 89106280
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/bid.20131022.txt.bz2",
+        "bytes": 73936820
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/bid.20131023.txt.bz2",
+        "bytes": 89533575
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/bid.20131024.txt.bz2",
+        "bytes": 120838217
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/bid.20131025.txt.bz2",
+        "bytes": 129121619
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/bid.20131026.txt.bz2",
+        "bytes": 28613463
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/bid.20131027.txt.bz2",
+        "bytes": 29059709
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/bid.20131028.txt.bz2",
+        "bytes": 52552956
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/clk.20131019.txt.bz2",
+        "bytes": 8751
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/clk.20131020.txt.bz2",
+        "bytes": 6878
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/clk.20131021.txt.bz2",
+        "bytes": 43151
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/clk.20131022.txt.bz2",
+        "bytes": 34752
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/clk.20131023.txt.bz2",
+        "bytes": 33629
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/clk.20131024.txt.bz2",
+        "bytes": 22677
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/clk.20131025.txt.bz2",
+        "bytes": 26996
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/clk.20131026.txt.bz2",
+        "bytes": 20376
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/clk.20131027.txt.bz2",
+        "bytes": 3690
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/conv.20131019.txt.bz2",
+        "bytes": 2343
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/conv.20131020.txt.bz2",
+        "bytes": 2881
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/conv.20131021.txt.bz2",
+        "bytes": 24730
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/conv.20131022.txt.bz2",
+        "bytes": 18041
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/conv.20131023.txt.bz2",
+        "bytes": 4716
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/imp.20131019.txt.bz2",
+        "bytes": 15767746
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/imp.20131020.txt.bz2",
+        "bytes": 14714304
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/imp.20131021.txt.bz2",
+        "bytes": 61278003
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/imp.20131022.txt.bz2",
+        "bytes": 50891651
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/imp.20131023.txt.bz2",
+        "bytes": 15100892
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/imp.20131024.txt.bz2",
+        "bytes": 15442694
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/imp.20131025.txt.bz2",
+        "bytes": 21093083
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/imp.20131026.txt.bz2",
+        "bytes": 18054608
+      },
+      {
+        "name": "ipinyou.contest.dataset/training3rd/imp.20131027.txt.bz2",
+        "bytes": 7591299
+      },
+      {
+        "name": "ipinyou.contest.dataset/user.profile.tags.cn.txt",
+        "bytes": 1335
+      },
+      {
+        "name": "ipinyou.contest.dataset/user.profile.tags.en.txt",
+        "bytes": 1420
+      }
+    ]
+  },
+  "kaggle_pleaseholdme": {
+    "url": "https://www.kaggle.com/api/v1/datasets/list/pleaseholdme/ipinyou",
+    "listing_complete": true,
+    "files": [
+      {
+        "name": "make-ipinyou-data/1458/featindex.txt",
+        "bytes": 12257467
+      },
+      {
+        "name": "make-ipinyou-data/1458/test.log.txt",
+        "bytes": 191909006
+      },
+      {
+        "name": "make-ipinyou-data/1458/test.yzx.txt",
+        "bytes": 82864188
+      },
+      {
+        "name": "make-ipinyou-data/1458/test.yzx.txt.lr.pred",
+        "bytes": 13750737
+      },
+      {
+        "name": "make-ipinyou-data/1458/train.log.txt",
+        "bytes": 934749944
+      },
+      {
+        "name": "make-ipinyou-data/1458/train.yzx.txt",
+        "bytes": 406891405
+      },
+      {
+        "name": "make-ipinyou-data/1458/train.yzx.txt.lr.weight",
+        "bytes": 15825215
+      },
+      {
+        "name": "make-ipinyou-data/2259/featindex.txt",
+        "bytes": 2278429
+      },
+      {
+        "name": "make-ipinyou-data/2259/test.log.txt",
+        "bytes": 114441197
+      },
+      {
+        "name": "make-ipinyou-data/2259/test.yzx.txt",
+        "bytes": 53009205
+      },
+      {
+        "name": "make-ipinyou-data/2259/train.log.txt",
+        "bytes": 226417640
+      },
+      {
+        "name": "make-ipinyou-data/2259/train.yzx.txt",
+        "bytes": 108422480
+      },
+      {
+        "name": "make-ipinyou-data/2261/featindex.txt",
+        "bytes": 7396954
+      },
+      {
+        "name": "make-ipinyou-data/2261/test.log.txt",
+        "bytes": 91906783
+      },
+      {
+        "name": "make-ipinyou-data/2261/test.yzx.txt",
+        "bytes": 43065210
+      },
+      {
+        "name": "make-ipinyou-data/2261/train.log.txt",
+        "bytes": 182192599
+      },
+      {
+        "name": "make-ipinyou-data/2261/train.yzx.txt",
+        "bytes": 90029091
+      },
+      {
+        "name": "make-ipinyou-data/2821/featindex.txt",
+        "bytes": 10224722
+      },
+      {
+        "name": "make-ipinyou-data/2821/test.log.txt",
+        "bytes": 181073777
+      },
+      {
+        "name": "make-ipinyou-data/2821/test.yzx.txt",
+        "bytes": 86173779
+      },
+      {
+        "name": "make-ipinyou-data/2821/train.log.txt",
+        "bytes": 359938919
+      },
+      {
+        "name": "make-ipinyou-data/2821/train.yzx.txt",
+        "bytes": 175896589
+      },
+      {
+        "name": "make-ipinyou-data/2997/featindex.txt",
+        "bytes": 2822323
+      },
+      {
+        "name": "make-ipinyou-data/2997/test.log.txt",
+        "bytes": 29972462
+      },
+      {
+        "name": "make-ipinyou-data/2997/test.yzx.txt",
+        "bytes": 16068853
+      },
+      {
+        "name": "make-ipinyou-data/2997/train.log.txt",
+        "bytes": 59120067
+      },
+      {
+        "name": "make-ipinyou-data/2997/train.yzx.txt",
+        "bytes": 32573639
+      },
+      {
+        "name": "make-ipinyou-data/3358/featindex.txt",
+        "bytes": 10746542
+      },
+      {
+        "name": "make-ipinyou-data/3358/test.log.txt",
+        "bytes": 95117009
+      },
+      {
+        "name": "make-ipinyou-data/3358/test.yzx.txt",
+        "bytes": 40240026
+      },
+      {
+        "name": "make-ipinyou-data/3358/train.log.txt",
+        "bytes": 527781825
+      },
+      {
+        "name": "make-ipinyou-data/3358/train.yzx.txt",
+        "bytes": 226718528
+      },
+      {
+        "name": "make-ipinyou-data/3386/featindex.txt",
+        "bytes": 12194261
+      },
+      {
+        "name": "make-ipinyou-data/3386/test.log.txt",
+        "bytes": 169840576
+      },
+      {
+        "name": "make-ipinyou-data/3386/test.yzx.txt",
+        "bytes": 73900566
+      },
+      {
+        "name": "make-ipinyou-data/3386/train.log.txt",
+        "bytes": 859808757
+      },
+      {
+        "name": "make-ipinyou-data/3386/train.yzx.txt",
+        "bytes": 376596302
+      },
+      {
+        "name": "make-ipinyou-data/3427/featindex.txt",
+        "bytes": 12063802
+      },
+      {
+        "name": "make-ipinyou-data/3427/test.log.txt",
+        "bytes": 166887179
+      },
+      {
+        "name": "make-ipinyou-data/3427/test.yzx.txt",
+        "bytes": 73756500
+      },
+      {
+        "name": "make-ipinyou-data/3427/train.log.txt",
+        "bytes": 783077467
+      },
+      {
+        "name": "make-ipinyou-data/3427/train.yzx.txt",
+        "bytes": 344420350
+      },
+      {
+        "name": "make-ipinyou-data/3476/featindex.txt",
+        "bytes": 10712750
+      },
+      {
+        "name": "make-ipinyou-data/3476/test.log.txt",
+        "bytes": 175086468
+      },
+      {
+        "name": "make-ipinyou-data/3476/test.yzx.txt",
+        "bytes": 78880717
+      },
+      {
+        "name": "make-ipinyou-data/3476/train.log.txt",
+        "bytes": 628203466
+      },
+      {
+        "name": "make-ipinyou-data/3476/train.yzx.txt",
+        "bytes": 279642907
+      },
+      {
+        "name": "make-ipinyou-data/LICENSE",
+        "bytes": 11325
+      },
+      {
+        "name": "make-ipinyou-data/Makefile",
+        "bytes": 1271
+      },
+      {
+        "name": "make-ipinyou-data/README.md",
+        "bytes": 2693
+      },
+      {
+        "name": "make-ipinyou-data/all/clk.all.txt",
+        "bytes": 4775488
+      },
+      {
+        "name": "make-ipinyou-data/all/test.log.txt",
+        "bytes": 1216232497
+      },
+      {
+        "name": "make-ipinyou-data/all/train.log.txt",
+        "bytes": 4561288892
+      },
+      {
+        "name": "make-ipinyou-data/mkyzxdata.sh",
+        "bytes": 277
+      },
+      {
+        "name": "make-ipinyou-data/python/formalizeua.py",
+        "bytes": 1044
+      },
+      {
+        "name": "make-ipinyou-data/python/mkdata.py",
+        "bytes": 867
+      },
+      {
+        "name": "make-ipinyou-data/python/mktest.py",
+        "bytes": 688
+      },
+      {
+        "name": "make-ipinyou-data/python/mkyzx.py",
+        "bytes": 5118
+      },
+      {
+        "name": "make-ipinyou-data/python/splitadvertisers.py",
+        "bytes": 1144
+      },
+      {
+        "name": "make-ipinyou-data/schema.txt",
+        "bytes": 209
+      }
+    ]
+  },
+  "season2": {
+    "url": "https://ndownloader.figshare.com/files/10082688",
+    "bytes": 3610249162,
+    "published_md5": "9ee18bf8c4dd19d1c41e6e77088367f9",
+    "members": [
+      {
+        "name": "ipinyou.contest.dataset-season2/",
+        "bytes": 0
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/algo.submission.demo.tar.bz2",
+        "bytes": 4424
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/city.cn.txt",
+        "bytes": 6144
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/city.en.txt",
+        "bytes": 4683
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/files.md5",
+        "bytes": 7305
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/known.data.bugs.txt",
+        "bytes": 326
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/README",
+        "bytes": 10663
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/README.old",
+        "bytes": 10534
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/region.cn.txt",
+        "bytes": 410
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/region.en.txt",
+        "bytes": 435
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/testing2nd/",
+        "bytes": 0
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/testing2nd/leaderboard.test.data.20130613_15.txt.bz2",
+        "bytes": 171842537
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/",
+        "bytes": 0
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/bid.20130606.txt.bz2",
+        "bytes": 465222307
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/bid.20130607.txt.bz2",
+        "bytes": 512584088
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/bid.20130608.txt.bz2",
+        "bytes": 271750756
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/bid.20130609.txt.bz2",
+        "bytes": 625048879
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/bid.20130610.txt.bz2",
+        "bytes": 281053211
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/bid.20130611.txt.bz2",
+        "bytes": 254404082
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/bid.20130612.txt.bz2",
+        "bytes": 233420812
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/clk.20130606.txt.bz2",
+        "bytes": 99316
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/clk.20130607.txt.bz2",
+        "bytes": 90069
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/clk.20130608.txt.bz2",
+        "bytes": 99774
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/clk.20130609.txt.bz2",
+        "bytes": 95818
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/clk.20130610.txt.bz2",
+        "bytes": 121818
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/clk.20130611.txt.bz2",
+        "bytes": 113880
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/clk.20130612.txt.bz2",
+        "bytes": 112802
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/conv.20130606.txt.bz2",
+        "bytes": 5334
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/conv.20130607.txt.bz2",
+        "bytes": 6020
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/conv.20130608.txt.bz2",
+        "bytes": 5560
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/conv.20130609.txt.bz2",
+        "bytes": 4278
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/conv.20130610.txt.bz2",
+        "bytes": 12451
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/conv.20130611.txt.bz2",
+        "bytes": 6454
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/conv.20130612.txt.bz2",
+        "bytes": 9848
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/imp.20130606.txt.bz2",
+        "bytes": 121560730
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/imp.20130607.txt.bz2",
+        "bytes": 119545822
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/imp.20130608.txt.bz2",
+        "bytes": 109675020
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/imp.20130609.txt.bz2",
+        "bytes": 108107284
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/imp.20130610.txt.bz2",
+        "bytes": 120686089
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/imp.20130611.txt.bz2",
+        "bytes": 110999156
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/imp.20130612.txt.bz2",
+        "bytes": 103534527
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/user.profile.tags.cn.txt",
+        "bytes": 1335
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/user.profile.tags.en.txt",
+        "bytes": 1420
+      }
+    ],
+    "samples": [
+      {
+        "name": "ipinyou.contest.dataset-season2/known.data.bugs.txt",
+        "sha256": "e2749452e53ba439f48d87c78cdf90dbd58afbe522fb83fea989efdfd6a74b4a",
+        "mentions_test_layout": false,
+        "mentions_season3_from_training": false,
+        "mentions_season1_conversion_logtype_bug": true
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/README",
+        "sha256": "1d705c0ff3c15d61ed2ce870467fe4133a50d7dc2f443f65a30d6cecdfd198a1",
+        "mentions_test_layout": true,
+        "mentions_season3_from_training": true,
+        "mentions_season1_conversion_logtype_bug": false
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/testing2nd/leaderboard.test.data.20130613_15.txt.bz2",
+        "compressed_bytes_read": 262144,
+        "prefix_sha256": "d8fc117bdbbe1346c5c4082907d8fcf3e59fd7ff7619bf71f01dbd97bfaf05b4",
+        "complete_rows_checked": 50,
+        "column_counts": [
+          26
+        ],
+        "logtypes": [
+          "1"
+        ],
+        "timestamp_min": "20130613000101373",
+        "timestamp_max": "20130613000101714",
+        "click_counts_seen": [
+          "0"
+        ],
+        "conversion_flags_seen": [
+          "0"
+        ]
+      },
+      {
+        "name": "ipinyou.contest.dataset-season2/training2nd/imp.20130606.txt.bz2",
+        "compressed_bytes_read": 262144,
+        "prefix_sha256": "645433f0c18c3fab529c6c65f1d7c615c133fb0ebb44a9f6dfb23eeced60e5bb",
+        "complete_rows_checked": 50,
+        "column_counts": [
+          24
+        ],
+        "logtypes": [
+          "1"
+        ],
+        "timestamp_min": "20130606000104192",
+        "timestamp_max": "20130606000104760"
+      }
+    ]
+  },
+  "response_bytes_read": 664943
+}
